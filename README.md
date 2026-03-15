@@ -43,7 +43,7 @@ Supported values: `"cnn"`, `"rf"`, `"nn"`
 - **Pipeline** — `pipeline.py` (main logic) + `inference_image.py` (image utils)
 
 **Datasets**:
-- NER: synthetic dataset (`labels.json`) with ~70–100 examples
+- NER: synthetic dataset (`labels.json`) with ~300 examples
 - Images: Animals-10 (10 classes: butterfly, cat, chicken, cow, dog, elephant, horse, sheep, spider, squirrel)
 
 **Main script**:  
@@ -56,8 +56,6 @@ Supported values: `"cnn"`, `"rf"`, `"nn"`
 
 ```bash
 # 1. Clone repository
-git clone <your-repo-url>
-cd project
 
 # 2. Create virtual environment (recommended)
 python -m venv .venv
