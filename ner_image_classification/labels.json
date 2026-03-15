@@ -1,0 +1,1216 @@
+[
+  {
+    "tokens": ["There", "is", "a", "beautiful", "butterfly", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "cat", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "chicken", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "dog", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "cow", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "elephant", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "horse", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "sheep", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "spider", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "squirrel", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]
+  },
+
+  {
+    "tokens": ["There", "is", "a", "beautiful", "city", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "house", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "painting", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "man", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "a", "beautiful", "girl", "in", "the", "picture", "."],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+
+  {
+    "tokens": ["Is", "that", "a", "dog", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "cat", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "chicken", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "cow", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "elephant", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "spider", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "sheep", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "butterfly", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "horse", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "squirrel", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "Ukraine", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "BMW", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "coffee", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "Ivan", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "map", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "cow", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "cat", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "dog", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "horse", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "spider", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "butterfly", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "sheep", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "chicken", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "squirrel", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "elephant", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "house", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "paper", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "Ivan", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "wallet", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "see", "a", "paper", "in", "this", "photo"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "cat"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "cow"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "chicken"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "elephant"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "butterfly"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "horse"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "spider"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "squirrel"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "dog"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "sheep"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "cap"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "book"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "notebook"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "phone"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Look", "at", "this", "beautiful", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "sheep", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "cat", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "dog", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "cow", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "horse", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "spider", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "squirrel", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "butterfly", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "elephant", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "chicken", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "rock", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "kid", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "car", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "knife", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "picture", "shows", "a", "USA", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "cat", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "dog", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "chicken", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "spider", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "squirrel", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "horse", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "butterfly", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "cow", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "elephant", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "sheep", "here"],
+    "ner_tags": [0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "beer", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "road", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "car", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "charge", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["There", "is", "clearly", "a", "money", "here"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "cat"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "dog"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "cow"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "chicken"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "horse"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "sheep"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "spider"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "butterfly"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "elephant"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "squirrel"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "hamster"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "fly"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "mouse"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "deer"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "main", "animal", "in", "the", "image", "is", "zebra"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "cat", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "cow", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "dog", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "chicken", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "horse", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "butterfly", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "spider", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "sheep", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "elephant", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "squirrel", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "man", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "safari", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "city", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "stars", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "think", "it", "is", "sky", "in", "the", "background"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["What", "a", "cute", "cat"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "dog"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "cow"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "horse"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "sheep"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "elephant"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "squirrel"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "spider"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "butterfly"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "chicken"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["What", "a", "cute", "girl"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["What", "a", "cute", "kid"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["What", "a", "cute", "boy"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["What", "a", "cute", "picture"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["What", "a", "cute", "painting"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "cat", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "cow", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "dog", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "chicken", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "horse", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "butterfly", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "elephant", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "sheep", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "spider", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "squirrel", "to", "me"],
+    "ner_tags": [0, 0, 0, 1, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "car", "to", "me"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "road", "to", "me"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "computer", "to", "me"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "truck", "to", "me"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "turtle", "to", "me"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["It", "looks", "a", "turtle", "to", "me"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "cat"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "dog"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "cow"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "horse"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "spider"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "sheep"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "squirrel"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "elephant"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "chicken"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "butterfly"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "brick"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "tree"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "table"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "phone"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["The", "photo", "features", "a", "rock"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "cat", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "dog", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "cow", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "chicken", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "sheep", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "spider", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "butterfly", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "horse", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "elephant", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "squirrel", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "window", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "grass", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "hole", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "building", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "that", "a", "gun", "in", "the", "photo", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "cat", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "dog", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "cow", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "chicken", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "butterfly", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "horse", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "sheep", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "squirrel", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "spider", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "elephant", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "paper", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "coin", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "plant", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "ground", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Do", "you", "think", "this", "is", "a", "bottle", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "cat", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "cow", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "dog", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "horse", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "elephant", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "butterfly", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "chicken", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "sheep", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "spider", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "squirrel", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "glass", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "bomb", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "key", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "brick", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Isn't", "this", "a", "case", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "cat"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "dog"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "cow"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "horse"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "butterfly"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "chicken"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "spider"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "sheep"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "squirrel"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "elephant"],
+    "ner_tags": [0, 0, 0, 0, 1]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "store"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "dollar"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "shirt"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "toolcase"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["This", "is", "definitely", "a", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "cat", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "squirrel", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "dog", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "cow", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "chicken", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "spider", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "sheep", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "horse", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "elephant", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "butterfly", "is", "standing", "there"],
+    "ner_tags": [0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "man", "is", "standing", "there"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "woman", "is", "standing", "there"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "kid", "is", "standing", "there"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "killer", "is", "standing", "there"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["A", "dude", "is", "standing", "there"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "cat", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "cow", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "dog", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "horse", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "chicken", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "sheep", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "spider", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "squirrel", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "butterfly", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "elephant", "in", "this", "picture"],
+    "ner_tags": [0, 0, 1, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "house", "in", "this", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "cup", "in", "this", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "gun", "in", "this", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "light", "in", "this", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "cloud", "in", "this", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["I", "spotted", "house", "in", "this", "picture"],
+    "ner_tags": [0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "cat", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "cow", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "dog", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "chicken", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "butterfly", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "horse", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "sheep", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "spider", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "squirrel", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "elephant", "?"],
+    "ner_tags": [0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "door", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "plate", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "burger", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "tram", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "this", "a", "leave", "?"],
+    "ner_tags": [0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "cat", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "cow", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "dog", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "chicken", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "horse", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "spider", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "sheep", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "squirrel", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "butterfly", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "elephant", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "mouse", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "human", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "parrot", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "bird", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "hamster", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Is", "the", "animal", "in", "the", "picture", "a", "mouse", "?"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "cat"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "cow"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "dog"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "chicken"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "horse"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "butterfly"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "sheep"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "spider"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "squirrel"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "elephant"],
+    "ner_tags": [0, 0, 0, 1]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "lamp"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "plane"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "explosion"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "fire"],
+    "ner_tags": [0, 0, 0, 0]
+  },
+  {
+    "tokens": ["Wow", "it's", "a", "IPhone"],
+    "ner_tags": [0, 0, 0, 0]
+  }
+]
